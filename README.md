@@ -26,9 +26,10 @@ Pré-processamento dos Dados:
 4. Tokenization: Etapa crucial no processamento de dados que envolve a conversão de dados textuais em dados numéricos. 
 
 Modelagem
+
 Construção e treino do modelo de Machine Learning para classificar as emoções das expressões do Twitter.
 
-Avaliação:
+Avaliação
 
 Avaliar o desempenho do modelo treinado, usando métricas como acurácia, precisão, recall e F1-score.
 
