@@ -37,6 +37,12 @@ Resultados
 
 ![image](https://github.com/Monpintc/Deep-Learning-Project/assets/154018252/98807465-64b3-4471-b1b7-eaa5fe2e567f)
 
+# Potencial uso futuro:
+
+1. Análise de sentimento: analisar as mensagens do Twitter em inglês para descobrir os sentimentos predominantes em várias emoções, fornecendo insights sobre o humor geral e o sentimento dos usuários.
+2. Classificação de emoções: Desenvolver modelos de machine learning para classificar com precisão os tweets nas seis categorias de emoções especificadas, permitindo a categorização automatizada e a compreensão do contexto emocional dos tweets.
+3. Análise Textual: Explorar padrões e expressões linguísticas associadas a diferentes estados emocionais, facilitando insights mais profundos sobre como as emoções são expressas e percebidas na comunicação online.
+
 
 
 # Autores
